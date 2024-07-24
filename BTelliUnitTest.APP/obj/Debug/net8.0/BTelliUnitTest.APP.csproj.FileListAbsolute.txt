@@ -9,3 +9,4 @@
 /Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/refint/BTelliUnitTest.APP.dll
 /Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/BTelliUnitTest.APP.pdb
 /Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/ref/BTelliUnitTest.APP.dll
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/BTelliUnitTest.APP.sourcelink.json

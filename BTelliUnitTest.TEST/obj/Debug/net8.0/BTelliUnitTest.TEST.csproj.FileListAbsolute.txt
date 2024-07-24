@@ -99,3 +99,4 @@
 /Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.TEST/obj/Debug/net8.0/BTelliUnitTest.TEST.pdb
 /Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.TEST/obj/Debug/net8.0/BTelliUnitTest.TEST.genruntimeconfig.cache
 /Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.TEST/obj/Debug/net8.0/ref/BTelliUnitTest.TEST.dll
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.TEST/obj/Debug/net8.0/BTelliUnitTest.TEST.sourcelink.json
