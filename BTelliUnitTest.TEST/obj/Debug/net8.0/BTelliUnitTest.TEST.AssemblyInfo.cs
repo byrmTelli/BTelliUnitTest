@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTelliUnitTest.TEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce1db73c461a7ffb529c00d2b9de8bca54fbeddd")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTelliUnitTest.TEST")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTelliUnitTest.TEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

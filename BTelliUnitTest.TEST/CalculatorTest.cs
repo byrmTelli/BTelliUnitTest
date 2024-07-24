@@ -4,6 +4,11 @@ namespace BTelliUnitTest.APP;
 
 public class CalculatorTest
 {
+    public Calculator calculator { get; set; }
+    public CalculatorTest()
+    {
+        this.calculator = new Calculator();
+    }
     [Fact]
     public void TestAdd()
     {
@@ -50,13 +55,25 @@ public class CalculatorTest
     
     [Theory]
     [InlineData(2,5,7)]
-    [InlineData(4,5,9)]
-    public void TestAdd2(int a, int b, int expectedData)
+    [InlineData(4,5,9)] 
+    public void Add_SimpleValues_ReturnSumOfValues(int a, int b, int expectedData)
     {
         var calculator = new Calculator();
 
         var result = calculator.Add(a, b);
 
         Assert.Equal(result, expectedData); 
+    }
+
+    [Theory]
+    [InlineData(0, 5, 0)]
+    [InlineData(4, 0, 0)]
+    public void Add_SimpleValues_IfHasZeroReturnZero(int a, int b, int expectedData)
+    {
+        var calculator = new Calculator();
+
+        var result = calculator.Add(a, b);
+
+        Assert.Equal(result, expectedData);
     }
 }
