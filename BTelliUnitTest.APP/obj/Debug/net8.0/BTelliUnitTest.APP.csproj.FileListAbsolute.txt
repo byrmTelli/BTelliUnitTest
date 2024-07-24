@@ -1,0 +1,11 @@
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/bin/Debug/net8.0/BTelliUnitTest.APP.deps.json
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/bin/Debug/net8.0/BTelliUnitTest.APP.dll
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/bin/Debug/net8.0/BTelliUnitTest.APP.pdb
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/BTelliUnitTest.APP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/BTelliUnitTest.APP.AssemblyInfoInputs.cache
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/BTelliUnitTest.APP.AssemblyInfo.cs
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/BTelliUnitTest.APP.csproj.CoreCompileInputs.cache
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/BTelliUnitTest.APP.dll
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/refint/BTelliUnitTest.APP.dll
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/BTelliUnitTest.APP.pdb
+/Users/bayramtelli/Desktop/aspNetCore/DotNetUnitTest/BTelliUnitTest/BTelliUnitTest.APP/obj/Debug/net8.0/ref/BTelliUnitTest.APP.dll
